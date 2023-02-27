@@ -1,7 +1,7 @@
 # Modeling Mixed-Signal System and Simulating with AMS
 
 ### Problem Description
-DO AMS Simulation Setup
+> Do AMS Simulation Setup
 1. Analog Simulation with Verilog-A Model  
 2. Mixed-Signal Behavioral Model Simulation
 - Analog Model Simulation with AMS
