@@ -1,6 +1,6 @@
-#Quine-McCluskey Method
+# Quine-McCluskey Method
 
-####Problem Descriptions:
+#### Problem Descriptions:
 Implement a two-level logic optimizer based on Quine-McCluskey method. 
 The first step is to generate all prime implicants for the given function. 
 The second step is to choose a minimum-cost cover and generate a sum-of-products expression of this function with minimum number of prime implicant
